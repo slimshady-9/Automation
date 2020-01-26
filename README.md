@@ -10,4 +10,4 @@ The scripts are
 -Some components have been segregated which can be used in main files
 
 Modules used:
-BeautifulSoup4    Urllib    RE    WebBrowser    sched   etc
+BeautifulSoup4 , Urllib , RE , WebBrowser , sched , PSUtil , Time , sys, os, etc
